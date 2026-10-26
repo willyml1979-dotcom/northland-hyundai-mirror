@@ -1,6 +1,6 @@
 {
   "dealership": "Northland Hyundai",
-  "generated_at": "2026-10-25T16:48:29",
+  "generated_at": "2026-10-25T23:08:46",
   "vehicle_count": 109,
   "currency": "CAD",
   "note": "Index of vehicles published by AiOptics. Each vehicle links to its full detail page, which carries the complete structured data (odometer, trim, color, stock, etc.).",
@@ -419,7 +419,7 @@
       "make": "Hyundai",
       "model": "Elantra Hybrid",
       "condition": "new",
-      "price": 34547.0,
+      "price": 35345.0,
       "price_currency": "CAD"
     },
     {
