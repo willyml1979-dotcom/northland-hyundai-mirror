@@ -1,6 +1,6 @@
 {
   "dealership": "Northland Hyundai",
-  "generated_at": "2026-10-25T23:08:46",
+  "generated_at": "2026-10-26T01:58:40",
   "vehicle_count": 109,
   "currency": "CAD",
   "note": "Index of vehicles published by AiOptics. Each vehicle links to its full detail page, which carries the complete structured data (odometer, trim, color, stock, etc.).",
@@ -12,7 +12,9 @@
       "year": 2008,
       "make": "Pontiac",
       "model": "G5 Base",
-      "condition": "used"
+      "condition": "used",
+      "price": 3609.0,
+      "price_currency": "CAD"
     },
     {
       "name": "2012 Hyundai Tucson GLS | AWD | Heated Seats | Bluetooth",
