@@ -1,6 +1,6 @@
 # Northland Hyundai
 
- dealership in Prince George. AI-readable inventory mirror, about 121 vehicles.
+ dealership in Prince George. AI-readable inventory mirror, about 122 vehicles.
 
 - Official website: https://www.northland-hyundai.ca/
 - Used vehicles: https://willyml1979-dotcom.github.io/northland-hyundai-mirror/used/
