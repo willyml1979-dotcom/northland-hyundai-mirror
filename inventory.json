@@ -1,7 +1,7 @@
 {
   "dealership": "Northland Hyundai",
-  "generated_at": "2026-10-26T10:23:04",
-  "vehicle_count": 109,
+  "generated_at": "2026-11-17T09:06:48",
+  "vehicle_count": 121,
   "currency": "CAD",
   "note": "Index of vehicles published by AiOptics. Each vehicle links to its full detail page, which carries the complete structured data (odometer, trim, color, stock, etc.).",
   "vehicles": [
@@ -458,6 +458,17 @@
       "price_currency": "CAD"
     },
     {
+      "name": "2026 Hyundai Elantra N Line Ultimate | FWD | Sport Sedan | 7-Speed Automatic & Advanced Safety | for sale Prince George",
+      "vin": "KMHLR4DF3TU233758",
+      "url": "https://willyml1979-dotcom.github.io/northland-hyundai-mirror/new/0c86df232f81.html",
+      "year": 2026,
+      "make": "Hyundai",
+      "model": "Elantra",
+      "condition": "new",
+      "price": 35945.0,
+      "price_currency": "CAD"
+    },
+    {
       "name": "2026 Hyundai Elantra Luxury | FWD | Remote Start | NAV | Sunroof | Heated Steering | Heated Seats",
       "vin": "KMHLN4DG8TU241245",
       "url": "https://willyml1979-dotcom.github.io/northland-hyundai-mirror/new/f0cc0dc80bc2.html",
@@ -520,18 +531,7 @@
       "make": "Hyundai",
       "model": "IONIQ 9",
       "condition": "new",
-      "price": 79697.0,
-      "price_currency": "CAD"
-    },
-    {
-      "name": "2026 Hyundai Kona Preferred | FWD | Remote Start | NAV | Apple CarPlay | Android Auto | Heated Seats | Heated Steering",
-      "vin": "KM8HB3AB2TU462809",
-      "url": "https://willyml1979-dotcom.github.io/northland-hyundai-mirror/new/3699acb811ec.html",
-      "year": 2026,
-      "make": "Hyundai",
-      "model": "Kona",
-      "condition": "new",
-      "price": 31697.0,
+      "price": 80495.0,
       "price_currency": "CAD"
     },
     {
@@ -542,7 +542,7 @@
       "make": "Hyundai",
       "model": "Kona",
       "condition": "new",
-      "price": 34447.0,
+      "price": 35245.0,
       "price_currency": "CAD"
     },
     {
@@ -553,7 +553,7 @@
       "make": "Hyundai",
       "model": "Kona",
       "condition": "new",
-      "price": 42597.0,
+      "price": 43549.0,
       "price_currency": "CAD"
     },
     {
@@ -586,18 +586,7 @@
       "make": "Hyundai",
       "model": "Kona",
       "condition": "new",
-      "price": 34995.0,
-      "price_currency": "CAD"
-    },
-    {
-      "name": "2026 Hyundai Kona Preferred",
-      "vin": "KM8HBCAB4TU501447",
-      "url": "https://willyml1979-dotcom.github.io/northland-hyundai-mirror/new/244cd5816e13.html",
-      "year": 2026,
-      "make": "Hyundai",
-      "model": "Kona",
-      "condition": "new",
-      "price": 34697.0,
+      "price": 35793.0,
       "price_currency": "CAD"
     },
     {
@@ -608,7 +597,7 @@
       "make": "Hyundai",
       "model": "Palisade Hybrid",
       "condition": "new",
-      "price": 68947.0,
+      "price": 69899.0,
       "price_currency": "CAD"
     },
     {
@@ -1017,6 +1006,39 @@
       "price_currency": "CAD"
     },
     {
+      "name": "2026 Hyundai Tucson Preferred",
+      "vin": "KM8JBCDE3TU500863",
+      "url": "https://willyml1979-dotcom.github.io/northland-hyundai-mirror/new/c7107d1868d1.html",
+      "year": 2026,
+      "make": "Hyundai",
+      "model": "Tucson",
+      "condition": "new",
+      "price": 38947.0,
+      "price_currency": "CAD"
+    },
+    {
+      "name": "2026 Hyundai Tucson Preferred",
+      "vin": "KM8JBCDE1TU500831",
+      "url": "https://willyml1979-dotcom.github.io/northland-hyundai-mirror/new/37e617fa948d.html",
+      "year": 2026,
+      "make": "Hyundai",
+      "model": "Tucson",
+      "condition": "new",
+      "price": 38947.0,
+      "price_currency": "CAD"
+    },
+    {
+      "name": "2026 Hyundai Tucson Preferred",
+      "vin": "KM8JBCDE1TU503745",
+      "url": "https://willyml1979-dotcom.github.io/northland-hyundai-mirror/new/ebb2256dca77.html",
+      "year": 2026,
+      "make": "Hyundai",
+      "model": "Tucson",
+      "condition": "new",
+      "price": 38947.0,
+      "price_currency": "CAD"
+    },
+    {
       "name": "2026 Hyundai Venue Ultimate",
       "vin": "KMHRC8A3XTU487965",
       "url": "https://willyml1979-dotcom.github.io/northland-hyundai-mirror/new/dcd25ccc542b.html",
@@ -1094,6 +1116,61 @@
       "price_currency": "CAD"
     },
     {
+      "name": "2027 Hyundai Kona Preferred",
+      "vin": "KM8HBCAB9VU536441",
+      "url": "https://willyml1979-dotcom.github.io/northland-hyundai-mirror/new/11487a1f6ad3.html",
+      "year": 2027,
+      "make": "Hyundai",
+      "model": "Kona",
+      "condition": "new",
+      "price": 35397.0,
+      "price_currency": "CAD"
+    },
+    {
+      "name": "2027 Hyundai Kona Preferred",
+      "vin": "KM8HBCAB7VU536468",
+      "url": "https://willyml1979-dotcom.github.io/northland-hyundai-mirror/new/26cf8d117658.html",
+      "year": 2027,
+      "make": "Hyundai",
+      "model": "Kona",
+      "condition": "new",
+      "price": 35397.0,
+      "price_currency": "CAD"
+    },
+    {
+      "name": "2027 Hyundai Kona N Line Ultimate",
+      "vin": "KM8HECA32VU542100",
+      "url": "https://willyml1979-dotcom.github.io/northland-hyundai-mirror/new/ead111a22c74.html",
+      "year": 2027,
+      "make": "Hyundai",
+      "model": "Kona",
+      "condition": "new",
+      "price": 44849.0,
+      "price_currency": "CAD"
+    },
+    {
+      "name": "2027 Hyundai Kona N Line Ultimate",
+      "vin": "KM8HECA36VU541497",
+      "url": "https://willyml1979-dotcom.github.io/northland-hyundai-mirror/new/39d4e7c96b33.html",
+      "year": 2027,
+      "make": "Hyundai",
+      "model": "Kona",
+      "condition": "new",
+      "price": 44647.0,
+      "price_currency": "CAD"
+    },
+    {
+      "name": "2027 Hyundai Kona Preferred",
+      "vin": "KM8HCCAB6VU541450",
+      "url": "https://willyml1979-dotcom.github.io/northland-hyundai-mirror/new/d0a1b7288a8f.html",
+      "year": 2027,
+      "make": "Hyundai",
+      "model": "Kona",
+      "condition": "new",
+      "price": 37847.0,
+      "price_currency": "CAD"
+    },
+    {
       "name": "2027 Hyundai Palisade Hybrid Luxury AWD | 7 Pass | Dash Cam | Cooled Seats",
       "vin": "KM8RKESAXVU141626",
       "url": "https://willyml1979-dotcom.github.io/northland-hyundai-mirror/new/03467b6d106f.html",
@@ -1102,6 +1179,28 @@
       "model": "Palisade Hybrid",
       "condition": "new",
       "price": 65997.0,
+      "price_currency": "CAD"
+    },
+    {
+      "name": "2027 Hyundai Palisade Hybrid Ultimate Calligraphy Night",
+      "vin": "KM8RMESAXVU159618",
+      "url": "https://willyml1979-dotcom.github.io/northland-hyundai-mirror/new/0dd65305f154.html",
+      "year": 2027,
+      "make": "Hyundai",
+      "model": "Palisade Hybrid",
+      "condition": "new",
+      "price": 73199.0,
+      "price_currency": "CAD"
+    },
+    {
+      "name": "2027 Hyundai Palisade Hybrid Ultimate Calligraphy",
+      "vin": "KM8RMESA0VU159336",
+      "url": "https://willyml1979-dotcom.github.io/northland-hyundai-mirror/new/a778a133304b.html",
+      "year": 2027,
+      "make": "Hyundai",
+      "model": "Palisade Hybrid",
+      "condition": "new",
+      "price": 71199.0,
       "price_currency": "CAD"
     },
     {
@@ -1177,16 +1276,53 @@
       "year": 2027,
       "make": "Hyundai",
       "model": "Santa Fe Hybrid",
-      "condition": "new"
+      "condition": "new",
+      "price": 53147.0,
+      "price_currency": "CAD"
     },
     {
-      "name": "2027 Hyundai Sonata Hybrid",
+      "name": "2027 Hyundai Santa Fe Hybrid Ultimate Calligraphy",
+      "vin": "KM8P5DG18VU227485",
+      "url": "https://willyml1979-dotcom.github.io/northland-hyundai-mirror/new/38d325a0e959.html",
+      "year": 2027,
+      "make": "Hyundai",
+      "model": "Santa Fe Hybrid",
+      "condition": "new",
+      "price": 61849.0,
+      "price_currency": "CAD"
+    },
+    {
+      "name": "2027 Hyundai Santa Fe Hybrid Ultimate Calligraphy",
+      "vin": "KM8P5DG1XVU229528",
+      "url": "https://willyml1979-dotcom.github.io/northland-hyundai-mirror/new/6231a1c093a6.html",
+      "year": 2027,
+      "make": "Hyundai",
+      "model": "Santa Fe Hybrid",
+      "condition": "new",
+      "price": 61849.0,
+      "price_currency": "CAD"
+    },
+    {
+      "name": "2027 Hyundai Santa Fe Hybrid Preferred",
+      "vin": "KM8P2DG1XVU231045",
+      "url": "https://willyml1979-dotcom.github.io/northland-hyundai-mirror/new/20af17019e0d.html",
+      "year": 2027,
+      "make": "Hyundai",
+      "model": "Santa Fe Hybrid",
+      "condition": "new",
+      "price": 49147.0,
+      "price_currency": "CAD"
+    },
+    {
+      "name": "2027 Hyundai Sonata Hybrid Preferred-Trend",
       "vin": "KMHL34JJ7VA192050",
       "url": "https://willyml1979-dotcom.github.io/northland-hyundai-mirror/new/d59e91c20a8c.html",
       "year": 2027,
       "make": "Hyundai",
       "model": "Sonata Hybrid",
-      "condition": "new"
+      "condition": "new",
+      "price": 40347.0,
+      "price_currency": "CAD"
     }
   ]
 }
