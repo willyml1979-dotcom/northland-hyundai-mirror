@@ -1,7 +1,7 @@
 {
   "dealership": "Northland Hyundai",
-  "generated_at": "2026-11-17T14:17:19",
-  "vehicle_count": 122,
+  "generated_at": "2026-11-18T03:39:58",
+  "vehicle_count": 123,
   "currency": "CAD",
   "note": "Index of vehicles published by AiOptics. Each vehicle links to its full detail page, which carries the complete structured data (odometer, trim, color, stock, etc.).",
   "vehicles": [
@@ -24,7 +24,7 @@
       "make": "Hyundai",
       "model": "Santa Fe",
       "condition": "used",
-      "price": 16376.0,
+      "price": 15796.0,
       "price_currency": "CAD"
     },
     {
@@ -55,17 +55,19 @@
       "make": "Hyundai",
       "model": "Elantra",
       "condition": "used",
-      "price": 12888.0,
+      "price": 11942.0,
       "price_currency": "CAD"
     },
     {
-      "name": "2019 Volvo XC90 Inscription",
+      "name": "2019 Volvo XC90 Inscription | AWD | Remote Start | Sunroof | Heated & Ventilated Seats | Bluetooth",
       "vin": "YV4A22PLXK1476731",
       "url": "https://willyml1979-dotcom.github.io/northland-hyundai-mirror/used/07720627d81c.html",
       "year": 2019,
       "make": "Volvo",
       "model": "XC90",
-      "condition": "used"
+      "condition": "used",
+      "price": 30015.0,
+      "price_currency": "CAD"
     },
     {
       "name": "2020 Toyota Highlander Hybrid Hybrid LE | AWD | Heated Seats | Backup Camera | Bluetooth",
@@ -90,14 +92,14 @@
       "price_currency": "CAD"
     },
     {
-      "name": "2022 RAM 1500 Sport",
+      "name": "2022 RAM 1500 Sport | Leather | Heated Steering | Bluetooth | Backup Camera",
       "vin": "1C6SRFVT7NN438018",
       "url": "https://willyml1979-dotcom.github.io/northland-hyundai-mirror/used/ee4ad119f240.html",
       "year": 2022,
       "make": "RAM",
       "model": "1500",
       "condition": "used",
-      "price": 49313.0,
+      "price": 47208.0,
       "price_currency": "CAD"
     },
     {
@@ -156,7 +158,7 @@
       "price_currency": "CAD"
     },
     {
-      "name": "2023 Hyundai Palisade Ultimate Calligraphy",
+      "name": "2023 Hyundai Palisade Ultimate Calligraphy | Leather | Remote Start | Heated & Vented Seats | Heated Steering | Sunroof",
       "vin": "KM8R5DGEXPU616014",
       "url": "https://willyml1979-dotcom.github.io/northland-hyundai-mirror/used/1723128f082d.html",
       "year": 2023,
@@ -196,7 +198,7 @@
       "make": "Hyundai",
       "model": "Santa Cruz",
       "condition": "used",
-      "price": 36475.0,
+      "price": 34345.0,
       "price_currency": "CAD"
     },
     {
@@ -207,7 +209,7 @@
       "make": "Hyundai",
       "model": "Santa Fe Hybrid",
       "condition": "used",
-      "price": 37063.0,
+      "price": 35899.0,
       "price_currency": "CAD"
     },
     {
@@ -266,6 +268,17 @@
       "price_currency": "CAD"
     },
     {
+      "name": "2025 Hyundai Kona Preferred",
+      "vin": "KM8HCCAB5SU303407",
+      "url": "https://willyml1979-dotcom.github.io/northland-hyundai-mirror/used/fd1f0257c7dd.html",
+      "year": 2025,
+      "make": "Hyundai",
+      "model": "Kona",
+      "condition": "used",
+      "price": 33343.0,
+      "price_currency": "CAD"
+    },
+    {
       "name": "2025 Hyundai Palisade Urban | AWD | Remote Start | Heated & Vented Seats | Navigation | Apple CarPlay | Android Auto",
       "vin": "KM8R3DGE0SU874735",
       "url": "https://willyml1979-dotcom.github.io/northland-hyundai-mirror/used/bfac846027d2.html",
@@ -288,13 +301,15 @@
       "price_currency": "CAD"
     },
     {
-      "name": "2025 Hyundai Santa Fe Luxury",
+      "name": "2025 Hyundai Santa Fe Luxury | Leather | Remote Start | Heated Seats | Heated Steering | Apple CarPlay | Android Auto",
       "vin": "5NMP4DGL4SH125922",
       "url": "https://willyml1979-dotcom.github.io/northland-hyundai-mirror/used/db9a36ea3643.html",
       "year": 2025,
       "make": "Hyundai",
       "model": "Santa Fe",
-      "condition": "used"
+      "condition": "used",
+      "price": 42785.0,
+      "price_currency": "CAD"
     },
     {
       "name": "2025 Hyundai Tucson Hybrid Ultimate | Remote Start | Sunroof | Heated & Cooled Seats | Heated Steering | Nav | Bluetooth",
@@ -385,14 +400,14 @@
       "price_currency": "CAD"
     },
     {
-      "name": "2026 Hyundai Palisade Ultimate Calligraphy",
+      "name": "2026 Hyundai Palisade Ultimate Calligraphy | Leather | Remote Start | Sunroof | Heated & Vented Seats | Heated Steering",
       "vin": "KM8RMES23TU074304",
       "url": "https://willyml1979-dotcom.github.io/northland-hyundai-mirror/used/2b7363cc3d81.html",
       "year": 2026,
       "make": "Hyundai",
       "model": "Palisade",
       "condition": "used",
-      "price": 61623.0,
+      "price": 59670.0,
       "price_currency": "CAD"
     },
     {
